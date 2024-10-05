@@ -10,7 +10,7 @@
 
 ## Table des matières
 - [Résumé](#résumé)
-  - [Description du projet](#description-du-projet)
+  - [Description](#description)
   - [Structure de la page](#structure-de-la-page)
 - [Les plateformes et logiciels utilisés](#les-plateformes-et-logiciels-utilisés)
   - [Editeur de texte](#éditeur-de-texte)
