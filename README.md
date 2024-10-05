@@ -1255,7 +1255,7 @@ Cible les textes à l'intérieur du footer.
 
 
 * J'ai trouvais intéressant l'exercice d'essayer de créer une page identique à ce site idéal pour s'entraîner en HTML/CSS avec le framework Bootsrap
-* Mon site imparfait montre qu'il ne faut pas sous-estimer HTML/CSS qui répondent à la base de construction d'un site web ainsi que la connaissance de Bootsrap
+* Mon site imparfait montre qu'il ne faut pas sous-estimer HTML/CSS qui répondent à la base de construction d'un site web ainsi que la connaissance de Bootstrap
 * Je souhaite m'améliorer et me rattraper à l'épreuve CSS sur machine.
 
 
