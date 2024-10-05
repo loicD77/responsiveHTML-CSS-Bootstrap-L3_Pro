@@ -200,6 +200,42 @@ Cette balise représente un champ de saisie pour que l'utilisateur puisse taper 
 
 ## F) Nav (Barre de navigation)
 
+Ce code représente une barre de navigation (navbar) construite en utilisant les classes de Bootstrap. Il inclut plusieurs menus déroulants permettant d'accéder à diverses sections d'un site web.
+
+### Structure du `nav` avec la classe `navbar`
+La balise `<nav>` contient toute la barre de navigation. Elle a les classes suivantes :
+- `navbar`: la classe de base pour la barre de navigation dans Bootstrap.
+- `navbar-expand-lg`: permet d’étendre la barre de navigation pour les écrans large (largeurs >= 992px).
+- `navbar-light`: indique que la barre de navigation aura un texte sombre (utilisé sur un fond clair).
+- `bg-lightblue`: définit la couleur d’arrière-plan de la barre 
+
+### Contenu principal de la barre de navigation
+La navigation utilise un conteneur `div` avec les classes suivantes :
+- `container-fluid`: un conteneur fluide qui occupe toute la largeur de l'écran.
+- `nav-container`: probablement une classe personnalisée pour la gestion du style de la navigation.
+
+### Menus de navigation
+Les menus sont définis à l'intérieur d'une balise `<ul>` avec la classe `navbar-nav`, qui crée une liste non ordonnée de liens de navigation. Les éléments de menu sont des éléments `<li>` avec la classe `nav-item`.
+
+Chaque menu déroulant est une liste d'options accessible via une balise `<li class="nav-item dropdown">`. Chaque élément de menu déroulant est structuré comme suit :
+
+1. **`<a class="nav-link dropdown-toggle">`** : Ce lien déclenche le menu déroulant. Il a plusieurs attributs :
+   - `href="#"`: Le lien est inactif, car il ne mène nulle part directement.
+   - `id="navbarDropdown1"` (ou 2, 3, 4) : un identifiant unique pour relier le menu déroulant à son bouton.
+   - `role="button"` : indique que ce lien est utilisé comme un bouton.
+   - `data-bs-toggle="dropdown"` : permet d'activer le comportement de menu déroulant de Bootstrap.
+   - `aria-expanded="false"` : indique que le menu est initialement fermé.
+
+2. **Sous-menus avec `<ul class="dropdown-menu">`** : Chaque menu déroulant est une liste d'éléments `<ul>` contenant des éléments `<li>` avec des liens vers d'autres pages :
+   - Les liens sont des balises `<a>` avec la classe `dropdown-item`, qui sont stylées en tant qu'éléments d'un menu déroulant.
+
+### Différents menus et leurs sous-menus
+1. **Mon tableau de bord** : Contient des liens vers les pages "Mes liaisons de comptes", "Mon calendrier", et "Mon suivi".
+2. **Mes documents** : Offre des accès à "Mon porte-documents" et "Mon bloc-notes".
+3. **Mon profil** : Permet de naviguer vers "Mes coordonnées", "Mes contacts", et "Mes options".
+4. **Catalogue des services** : Contient des liens vers les sections "Les démarches", "Les formulaires CERFA", et "Les organismes partenaires".
+
+
 
 
 ## G) Fil d'Ariane
