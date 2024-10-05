@@ -29,18 +29,18 @@
 # Résumé
 
 ## Description
- * Ce projet a pour objectif de recréer une page web à partir d'une capture d'écran. La page suit une structure sémantique avec des menus surgissants, des articles et un aside pour les astuces et actualités. La page est responsive (du mieux possible avec le niveau que l'étudiant possède actuellement pour le délai déterminé) grâce à des media queries et à la grille Bootstrap pour la pagination.
- * J'ai essayé de choisir des noms de classes correct (en anglais)
+* Ce projet a pour objectif de recréer une page web à partir d'une capture d'écran. La page suit une structure sémantique avec des menus surgissants, des articles et un aside pour les astuces et actualités. La page est responsive (du mieux possible avec le niveau que l'étudiant possède actuellement pour le délai imparti) grâce à des media queries et à la grille Bootstrap pour la mise en page.
+* J'ai essayé de choisir des noms de classes corrects (en anglais).
 
- * J'avais de base des connaissances en HTML/CCS mais je suis encore loin d'être l'expert idéal dans ce domaine... (Comme par exemple en CSS la différence entre une pseudo-classe et un pseudo-élément qui n'était plus très clair, ou encore ou encore les frères immédiats, frères suivants au même niveau etc..)
- * Il est vrai que je me suis aidé de Chatgbt pour structurer le code et créé ce compte-rendu, mais j'ai essayé de le faire de manière intelligente, en lui demandant seulement les choses dont je ne comprenais pas et encore, même lui avait des difficultés à faire ce que je voulais faire...
- * J'aurai dû utilisé plus efficacement les 3 semaines "sans-alternance", malgré que j'ai écris un cahier entier de 96 page avec pleins de compétences css (et un autre que j'utilise pour des nouvelles choses) je n'ai pas était au mieux que j'aurai pu faire, j'aurai dû me concentrer davantage sur Bootstrap (flexbox, grille) car j'ai actuellment encore des difficultés à comprendre la logique de ce framework, par manque de pratique et d'utilisation idéale de mon temps .
+* J'avais déjà des connaissances en HTML/CSS, mais je suis encore loin d'être l'expert idéal dans ce domaine... (Par exemple, en CSS, la différence entre une pseudo-classe et un pseudo-élément n'était plus très claire, ou encore les frères immédiats, frères suivants au même niveau, etc.)
+* Il est vrai que je me suis aidé de ChatGPT pour structurer le code et créer ce compte-rendu, mais j'ai essayé de le faire de manière intelligente, en lui demandant seulement des choses que je ne comprenais pas. Et même là, il avait parfois des difficultés à réaliser ce que je voulais faire...
+* J'aurais dû utiliser plus efficacement les 3 semaines "sans alternance". Malgré le fait que j'ai écrit un cahier entier de 96 pages avec plein de compétences CSS (et un autre que j'utilise pour de nouvelles choses), je n'ai pas atteint le meilleur niveau que j'aurais pu. J'aurais dû me concentrer davantage sur Bootstrap (flexbox, grille), car j'ai encore des difficultés à comprendre la logique de ce framework, par manque de pratique et de gestion optimale de mon temps.
 
- * J'ai également utilisé la documentation HTML de **Mozilla** (https://developer.mozilla.org/en-US/docs/Web/HTML) ainsi que sa documentation CSS (https://developer.mozilla.org/en-US/docs/Web/CSS)
+* J'ai également utilisé la documentation HTML de **Mozilla** (https://developer.mozilla.org/en-US/docs/Web/HTML) ainsi que sa documentation CSS (https://developer.mozilla.org/en-US/docs/Web/CSS).
 
- * Je me aussi aidé du cours html/css de openclassrooms (https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)
+* Je me suis aussi aidé du cours HTML/CSS d'OpenClassrooms (https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3).
 
-* J'ai eu un gros problème avec les noms de classes "tdb" et "dec", je voulais remplacer leurs noms par "dashboard-title" et "presentation-title" mais impossible car le style css ne se reflétait pas (même si je modifiais le nom des classes dans le fichier style.css, ou que je vidais le cache du navigateur ou que je changeais d'ordinateurs), je n'ai toujours pas compris actuellement l'origine du problème
+* J'ai eu un gros problème avec les noms de classes "tdb" et "dec". Je voulais remplacer leurs noms par "dashboard-title" et "presentation-title", mais c'était impossible, car le style CSS ne se reflétait pas (même si je modifiais les noms des classes dans le fichier style.css, que je vidais le cache du navigateur ou que je changeais d'ordinateur). Je n'ai toujours pas compris l'origine du problème à ce jour.
 
 ## Structure de la page
 La page est organisée comme suit :
@@ -48,6 +48,7 @@ La page est organisée comme suit :
 - Un aside à gauche pour "LES ASTUCES" et "LES ACTUALITÉS"
 - Une section principale avec des articles
 - Un footer avec des liens supplémentaires
+
 
 
 # Les plateformes et logiciels utilisés
@@ -1253,11 +1254,9 @@ Cible les textes à l'intérieur du footer.
 
 ## Conclusion
 
-
-* J'ai trouvais intéressant l'exercice d'essayer de créer une page identique à ce site idéal pour s'entraîner en HTML/CSS avec le framework Bootsrap
-* Mon site imparfait montre qu'il ne faut pas sous-estimer HTML/CSS qui répondent à la base de construction d'un site web ainsi que la connaissance de Bootstrap
-* Je souhaite m'améliorer et me rattraper à l'épreuve CSS sur machine.
-
+* J'ai trouvé intéressant l'exercice d'essayer de créer une page identique à ce site, idéal pour s'entraîner en HTML/CSS avec le framework Bootstrap.
+* Mon site imparfait montre qu'il ne faut pas sous-estimer HTML/CSS, qui sont à la base de la construction d'un site web, ainsi que la connaissance de Bootstrap.
+* Je souhaite m'améliorer et me rattraper pour l'épreuve CSS sur machine.
 
 
 ![hommedev2](./img/hommedev2.png "hommedev2")
