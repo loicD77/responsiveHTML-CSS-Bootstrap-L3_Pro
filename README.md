@@ -21,7 +21,7 @@ Le compte rendu et le code est aussi disponible sur le dépôt github suivant :
   - [D) En-tête (head)](#d-en-tête-head)
   - [E) Header (Logo du site, barre de recherche)](#e-header-logo-du-site-barre-de-recherche)
   - [F) Nav (Barre de navigation)](#f-nav-barre-de-navigation)
-- [Le code CSS et Bootstrap](#le-code-css-et-bootstrap)
+- [Le CSS](#le-css)
 - [Conclusion](#conclusion)
 
 
