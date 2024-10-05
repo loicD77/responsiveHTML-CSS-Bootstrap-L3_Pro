@@ -49,7 +49,7 @@ La page est organisée comme suit :
 - Un footer avec des liens supplémentaires
 
 
-# Les plateformes et logiciels utilisées
+# Les plateformes et logiciels utilisés
 
 ## Editeur de texte
 
