@@ -1248,13 +1248,13 @@ Cible les textes à l'intérieur du footer.
 ![md17](./img/md17.png "md17")
 
 
-* On peut voir à travers ces illustrations que le site s'adapte responsivement à plusieurs types d'écrans mais d'une manière un peu maladroite, l'utilisation de flexbon est encore moyennnement acquis
+* On peut voir à travers ces illustrations que le site s'adapte responsivement à plusieurs types d'écrans mais d'une manière un peu maladroite, l'utilisation de flexbox est encore moyennnement acquis
 
 
 ## Conclusion
 
 
-* J'ai trouvais l'exercice d'essayer de créer une page identique à ce site idéal pour s'entraîner en HTML/CSS avec le framework Bootsrap
+* J'ai trouvais intéressant l'exercice d'essayer de créer une page identique à ce site idéal pour s'entraîner en HTML/CSS avec le framework Bootsrap
 * Mon site imparfait montre qu'il ne faut pas sous-estimer HTML/CSS qui répondent à la base de construction d'un site web ainsi que la connaissance de Bootsrap
 * Je souhaite m'améliorer et me rattraper à l'épreuve CSS sur machine.
 
