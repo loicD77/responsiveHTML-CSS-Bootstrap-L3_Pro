@@ -1210,7 +1210,7 @@ Cible les textes à l'intérieur du footer.
 
 
 
-* Voici mon site sous différents format :
+* Voici mon site sous différents formats :
 
 
 ![md1](./img/md1.png "md1")
