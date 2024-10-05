@@ -3,7 +3,7 @@
 
 * Lien du dépôt de l'adresse de la page : http://dmloicdarras.atwebpages.com/
 
-Le compte rendu et le code est aussi disponible sur le dépôt github suivant : https://github.com/loicD77/responsiveHTML-CSS-Bootstrap-L3_Pro/tree/master
+* Le compte rendu et le code est aussi disponible sur le dépôt github suivant : https://github.com/loicD77/responsiveHTML-CSS-Bootstrap-L3_Pro/tree/master
 
 ![md1](./img/hommedev.png "md1")
 
