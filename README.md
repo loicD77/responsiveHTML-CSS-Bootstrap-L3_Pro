@@ -34,7 +34,7 @@
 
  * J'avais de base des connaissances en HTML/CCS mais je suis encore loin d'être l'expert idéal dans ce domaine... (Comme par exemple en CSS la différence entre une pseudo-classe et un pseudo-élément qui n'était plus très clair, ou encore ou encore les frères immédiats, frères suivants au même niveau etc..)
  * Il est vrai que je me suis aidé de Chatgbt pour structurer le code et créé ce compte-rendu, mais j'ai essayé de le faire de manière intelligente, en lui demandant seulement les choses dont je ne comprenais pas et encore, même lui avait des difficultés à faire ce que je voulais faire...
- * J'aurai dû utilisé plus efficacement les 3 semaines "sans-alternance", malgré que j'ai ecrit un cahier entier de 96 page avec pleins de compétences css (et un autre que j'utilise pour des nouvelles choses) je n'ai pas était au mieux que j'aurai pu faire, j'aurai dû me concentrer davantage sur Bootstrap (flexbox, grille) car j'ai actuellment encore des difficultés à comprendre la logique de ce framework, par manque de pratique et d'utilisation idéale de mon temps .
+ * J'aurai dû utilisé plus efficacement les 3 semaines "sans-alternance", malgré que j'ai écris un cahier entier de 96 page avec pleins de compétences css (et un autre que j'utilise pour des nouvelles choses) je n'ai pas était au mieux que j'aurai pu faire, j'aurai dû me concentrer davantage sur Bootstrap (flexbox, grille) car j'ai actuellment encore des difficultés à comprendre la logique de ce framework, par manque de pratique et d'utilisation idéale de mon temps .
 
  * J'ai également utilisé la documentation HTML de **Mozilla** (https://developer.mozilla.org/en-US/docs/Web/HTML) ainsi que sa documentation CSS (https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -923,7 +923,7 @@ Lorsque l'utilisateur passe la souris sur un lien (`<a>`) dans un élément `.bl
 
 ### `.d-flex` 
 La classe `.d-flex` applique les propriétés Flexbox à un élément. Cela est utile pour l'alignement et la disposition flexible des éléments enfants à l'intérieur d'un conteneur.
-    * **display: flex** : Active le modèle Flexbox sur l'élément, ce qui permet un alignement dynamique et adaptable des éléments enfants. Flexbox est souvent utilisé pour créer des mises en page fluides et réactives.
+* **display: flex** : Active le modèle Flexbox sur l'élément, ce qui permet un alignement dynamique et adaptable des éléments enfants. Flexbox est souvent utilisé pour créer des mises en page fluides et réactives.
 
 ```css
 .d-flex {
