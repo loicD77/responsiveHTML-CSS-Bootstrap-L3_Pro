@@ -5,7 +5,7 @@
 
 * Le compte rendu et le code est aussi disponible sur le dépôt github suivant : https://github.com/loicD77/responsiveHTML-CSS-Bootstrap-L3_Pro/tree/master
 
-![md1](./img/hommedev.png "md1")
+![hommedev](./img/hommedev.png "hommedev")
 
 
 ## Table des matières
@@ -1260,4 +1260,4 @@ Cible les textes à l'intérieur du footer.
 
 
 
-![md1](./img/hommedev2.png "md1")
+![hommedev2](./img/hommedev2.png "hommedev2")
