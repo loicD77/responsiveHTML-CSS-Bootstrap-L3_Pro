@@ -268,7 +268,7 @@ Cette *div* avec la classe *tdb* sert de conteneur pour le titre principal de la
 
 ***p clas="dec"***
 
-Ce paragraphe, avec la classe *dec*, contient une brève description de la page. Il définit à l'utilisateur ce qu'il peut faire dans la section ***Mon tableau de bord*** comme le témoigne le texte *Découvrez ci-dessous ce que vous pouvez faire dans la rubrique « Mon tableau de bord ».* .
+Ce paragraphe, avec la classe *dec*, contient une brève description de la page. Il définit à l'utilisateur ce qu'il peut faire dans la section ***Mon tableau de bord*** comme le témoigne le texte *Découvrez ci-dessous ce que vous pouvez faire dans la rubrique « Mon tableau de bord ».* 
 
 
 ***div class="custom-block row bg-light"***
