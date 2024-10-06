@@ -284,7 +284,7 @@ Dans ce cas chaque colonne contient :
 
 * a href="" : Un lien hypertexte qui redirige vers une page spécifique en rapport avec la section.
 * div class="d-flex align-items-center mb-2" : Cette *div* utilise la classe Bootstrap *d-flex* pour aligner les éléments en flexbox et les centrer verticalement (align-items-center)
-   * img src="" : Une image qui illustre la section. Par exemple, pour **"Mes liaisons de comptes"**, l'image est **img/402_429_Liaisons.JPG .
+   * img src="" : Une image qui illustre la section. Par exemple, pour **"Mes liaisons de comptes"**, l'image est **img/402_429_Liaisons.JPG** .
    * p class="title" : Dans ce cas le paragraphe affiche le titre de la section. Par exemple , **Mes liaisons de comptes**
 * ul class="black-text : Une liste non ordonnée contenant des informations supplémentaires sous forme de points:
   * Ici chaque "li" (élément de liste) décrit les fonctionnalités principales de la section (Exemple : "Suivez l'avancement de vos démarches en ligne..")
