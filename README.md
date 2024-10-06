@@ -743,7 +743,7 @@ Expliquons en détails chaque partie du css
 
 ### `tips-title, news-title`
 
-   * **position: absolute** positionne l'élément de de manière précise par rapport à son conteneur parent, sans affecter les autres éléments
+   * **position: absolute** positionne l'élément de  manière précise par rapport à son conteneur parent, sans affecter les autres éléments
    * J'ai aussi mis **top:0** et **left:0** pour la positon **"en haut à gauche"** des titres
    * Je règle aussi la longueur à 100 % (**width : 100%**)
    * J'ajoute aussi un espace vertical de 0.5em au-dessus et en dessous du contenu de l'élément (espace autour du titre)
