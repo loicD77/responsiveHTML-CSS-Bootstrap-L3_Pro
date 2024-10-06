@@ -45,9 +45,9 @@
 ## Structure de la page
 La page est organisée comme suit :
 - Un header avec un menu de navigation
-- Un aside à droite pour "LES ASTUCES" et "LES ACTUALITÉS"
-- Une section principale avec des articles
-- Un footer avec des liens supplémentaires
+- Un tableau de bord avec trois sections interactives pour gérer les liaisons de comptes, le calendrier, et le suivi des démarches.
+- Un aside à droite pour "LES ASTUCES" et "LES ACTUALITÉS" qui sont des sections d'astuces et d'actualités avec des liens interactifs vers des démarches en ligne et des annonces récentes.
+- Un footer avec des liens supplémentaires qui est un pied de page avec liens d'assistance, informations légales, qualité de service, partenariats, et logo de partenaire.
 
 
 
@@ -92,7 +92,7 @@ La page est organisée comme suit :
 
 
 
-* Ici Popper.js est une bibliothèque JavaScript qui s'occupe des éléments de positionnement, comme les **tooltips** (infobulles) et les **popovers** (ou dropdowns) . Cette incroyable bibliothèque est parfois utilisé avec Bootstrap pour gérer la position de certains composants de l'interface utilisateur.Cela assure que ces éléments s'afficheront correctement par rapport à leurs **éléments déclenchers**, même lorsque la taille de la fenêtre change ou lorsque l'utilisateur fait défiler la page. 
+* Ici Popper.js est une bibliothèque JavaScript qui s'occupe des éléments de positionnement, comme les **tooltips** (infobulles) et les **popovers** (ou dropdowns) . Cette incroyable bibliothèque est parfois utilisé avec Bootstrap pour gérer la position de certains composants de l'interface utilisateur.Cela assure que ces éléments s'afficheront correctement par rapport à leurs **éléments déclenchés**, même lorsque la taille de la fenêtre change ou lorsque l'utilisateur fait défiler la page. 
 *Cela nous arrange très bien pour notre page web sur les différentes pages webs gérées par **les medias queries***
 
 
