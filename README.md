@@ -33,6 +33,7 @@
 * J'ai essayé de choisir des noms de classes corrects (en anglais).
 
 * J'avais déjà des connaissances en HTML/CSS, mais je suis encore loin d'être l'expert idéal dans ce domaine... (Par exemple, en CSS, la différence entre une pseudo-classe et un pseudo-élément n'était plus très claire, ou encore les frères immédiats, frères suivants au même niveau, etc.)
+
 *J'aurais dû utiliser plus efficacement les 3 semaines sans alternance. Malgré le fait que j'aie rempli un cahier entier de 96 pages avec de nombreuses compétences CSS (et un autre que j'utilise pour de nouvelles choses), je n'ai pas atteint le niveau que j'aurais pu. J'aurais dû me concentrer davantage sur Bootstrap (Flexbox, grille), car j'ai encore des difficultés à comprendre la logique de ce framework, en raison d'un manque de pratique et d'une gestion sous-optimale de mon temps.
 
 * J'ai également utilisé la documentation HTML de **Mozilla** (https://developer.mozilla.org/en-US/docs/Web/HTML) ainsi que sa documentation CSS (https://developer.mozilla.org/en-US/docs/Web/CSS).
