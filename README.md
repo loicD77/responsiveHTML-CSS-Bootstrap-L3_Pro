@@ -13,7 +13,7 @@
   - [Description](#description)
   - [Structure de la page](#structure-de-la-page)
 - [Les plateformes et logiciels utilisés](#les-plateformes-et-logiciels-utilisés)
-  - [Editeur de texte](#éditeur-de-texte)
+  - [Editeur de texte](#editeur-de-texte)
 - [Le code HTML](#le-code-html)
   - [A) Les balises link](#a-les-balises-link)
   - [B) Les balises scripts de Bootstrap](#b-les-balises-scripts-de-bootstrap)
@@ -22,6 +22,12 @@
   - [E) Header (Logo du site, barre de recherche)](#e-header-logo-du-site-barre-de-recherche)
   - [F) Nav (Barre de navigation)](#f-nav-barre-de-navigation)
   - [G) Fil d'Ariane](#g-fil-dariane)
+  - [H) Main](#h-main)
+  - [I) Les asides](#i-les-asides)
+  - [J) Footer](#j-footer)
+  - [K) Légales](#k-légales) 
+- [Les media queries](#les-media-queries)
+
 - [Le CSS](#le-css)
 - [Conclusion](#conclusion)
 
@@ -61,7 +67,6 @@ La page est organisée comme suit :
 
  
  
- ## Style pour les éléments de menu
 
 
 
@@ -441,7 +446,7 @@ Ici ce second "aside" est développé exprès pour "ACTUALITÉS". Il fournit des
   * Nos organismes partebaures
   * Devenir partenaire ?
 
-## K) Informations légales sur les droits réservés
+## K) Légales 
 
 
 
@@ -1207,7 +1212,7 @@ Cible les textes à l'intérieur du footer.
 
 
 
-### Les media queries
+# Les media queries
 
 
 
