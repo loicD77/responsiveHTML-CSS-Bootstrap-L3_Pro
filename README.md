@@ -310,7 +310,7 @@ Dans ce cas chaque colonne contient :
 
 * Donc, dans mon cas actuel, ce bloc **"main"** présente le contenu principal du "Tableau de bord", avec un titre principal, une description, et trois sections distinctes organisées en colonnes.
 * Chacune de ces sections contient une image, un titre, et des informations détaillant les fonctionnalités.
-* Les classes Bootstrap permettent de structurer et styliser ces éléments pour ne mise en page fluide et responsive.
+* Les classes Bootstrap permettent de structurer et styliser ces éléments pour une mise en page fluide et responsive.
 
 ## I) Les asides
 
