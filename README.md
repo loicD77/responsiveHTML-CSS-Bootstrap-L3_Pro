@@ -388,7 +388,7 @@ Ici ce second "aside" est développé exprès pour "ACTUALITÉS". Il fournit des
 * L'élément **"footer"** est utilisé pour définir le pied de page d'une page web
 * Il contient des informations importantes ou des liens de navigation supplémentaires.
 * Classes :
-   * text-footer et text-white : Ces classes stylisent le text en bas de la page et le rendant blanc.
+   * text-footer et text-white : Ces classes stylisent le text en bas de la page en le rendant blanc.
    * py-4 et mt-4 : Ces classes (généralement issues de Bootstrap) ajoutent du **padding vertical (py)** et de la marge en haut (mt) pour espacer les éléments.
 
 
