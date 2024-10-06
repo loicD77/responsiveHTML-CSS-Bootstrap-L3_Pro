@@ -887,7 +887,7 @@ Expliquons en détails chaque partie du css
  ### `.black-text a`
 * Cette classe est utilisée pour cibler tous les liens (`<a>`) situés dans un élément ayant la classe `.black-text`. 
  * Cela permet de personnaliser l'apparence des liens, notamment leur couleur et leur décoration (soulignement).
- * color: black !important** : Force les liens à être de couleur noire, en ignorant d'autres styles potentiellement appliqués.
+ * color: black !important : Force les liens à être de couleur noire, en ignorant d'autres styles potentiellement appliqués.
  * text-decoration: none  : Supprime le soulignement des liens, donnant un aspect plus épuré.
 
 ```css
