@@ -800,7 +800,7 @@ Expliquons en détails chaque partie du css
 
    * Ici j'ai fais un espacement intérieur des éléments du menu déroulant avec un **padding : 1px 15px**
    * Un bleu spécifique avec un **color: #4169E1** qui définit la couleur du symbole en bleu foncé
-   * J'ai fais un **font-size: 12px** pour ajuster la taille de la policce du symbole à 12 pixels
+   * J'ai fais un **font-size: 12px** pour ajuster la taille de la police du symbole à 12 pixels
    * J'ai fais un **line-height: 1** qui aligne le symbole verticalement avec le texte pour un meilleur alignement 
    * Dans le cas de **margin-left** j'ai fais un **4%** pour ajouter un espacement à gauche du symbole pour un léger décalage (le % permet une adaptation "améliorée" par rapport aux pixels mais parfois ceci ne marchais pas dans mon cas du coups j'ai mis des pixels..)
    * Pour **margin-top** j'ai fais un **0.8%** pour ajouter un espacement en haut du symbole pour le center verticalement par rapport au texte .
