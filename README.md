@@ -33,7 +33,7 @@
 * J'ai essayé de choisir des noms de classes corrects (en anglais).
 
 * J'avais déjà des connaissances en HTML/CSS, mais je suis encore loin d'être l'expert idéal dans ce domaine... (Par exemple, en CSS, la différence entre une pseudo-classe et un pseudo-élément n'était plus très claire, ou encore les frères immédiats, frères suivants au même niveau, etc.)
-* Il est vrai que je me suis aidé de ChatGPT pour structurer le code et créer ce compte-rendu, mais j'ai essayé de le faire de manière intelligente, en lui demandant seulement des choses que je ne comprenais pas. Et même là, il avait parfois des difficultés à réaliser ce que je voulais faire...
+* Il est vrai que je me suis aidé de ChatGPT pour structurer le code et créer ce compte-rendu (Images générées par IA pour illustrer), mais j'ai essayé de le faire de manière intelligente, en lui demandant seulement des choses que je ne comprenais pas. Et même là, il avait parfois des difficultés à réaliser ce que je voulais faire...
 * J'aurais dû utiliser plus efficacement les 3 semaines "sans alternance". Malgré le fait que j'ai écrit un cahier entier de 96 pages avec plein de compétences CSS (et un autre que j'utilise pour de nouvelles choses), je n'ai pas atteint le meilleur niveau que j'aurais pu. J'aurais dû me concentrer davantage sur Bootstrap (flexbox, grille), car j'ai encore des difficultés à comprendre la logique de ce framework, par manque de pratique et de gestion optimale de mon temps.
 
 * J'ai également utilisé la documentation HTML de **Mozilla** (https://developer.mozilla.org/en-US/docs/Web/HTML) ainsi que sa documentation CSS (https://developer.mozilla.org/en-US/docs/Web/CSS).
@@ -45,7 +45,7 @@
 ## Structure de la page
 La page est organisée comme suit :
 - Un header avec un menu de navigation
-- Un aside à gauche pour "LES ASTUCES" et "LES ACTUALITÉS"
+- Un aside à droite pour "LES ASTUCES" et "LES ACTUALITÉS"
 - Une section principale avec des articles
 - Un footer avec des liens supplémentaires
 
