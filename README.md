@@ -241,7 +241,7 @@ Chaque menu déroulant est une liste d'options accessible via une balise `<li cl
 
 ## G) Fil d'Ariane
 
-* Tout le fil d'Ariane est compris entre des balises de liste non ordonnée "ul" ayant pour **class "breadcrumb"** et chaque ligne est compris logiquement entre des 
+* Tout le fil d'Ariane est compris entre des balises de liste non ordonnée "ul" ayant pour **class "breadcrumb"** et chaque ligne est compris logiquement entre des "li"
 * La premier élément de ce fil comprend donc des listes ordonnées "li"
 * Le lien **"a"** ici présent a pour class **home** et le lien situé en **href** (*https://mon.service-public.fr/portail/*) pour le texte "Accueil"
 * Ensuite "& gt" (je ne colle pas car sinon le symbole se crée); signifie **"greater than"** et est utilisé pour afficher le symbole **>** dans une page web, il est donc situé sur la deuxième ligne de ce fil d'Ariane entre deux balises de lise ordonnées ayant pour classe **"breadcrumb-items"** (Le **"s"** a était ajouté car j'avais une anomalie dont je n'ai pas trouvé la solution où le symbole **/** s'affichait à la place de **>** . )
