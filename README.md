@@ -5,8 +5,6 @@
 
 * Le compte rendu et le code est aussi disponible sur le dépôt github suivant : https://github.com/loicD77/responsiveHTML-CSS-Bootstrap-L3_Pro/tree/master
 
-![hommedev](./img/hommedev.png "hommedev")
-
 
 ## Table des matières
 - [Résumé](#résumé)
@@ -1264,4 +1262,3 @@ Cible les textes à l'intérieur du footer.
 * Je souhaite m'améliorer et me rattraper pour l'épreuve CSS sur machine.
 
 
-![hommedev2](./img/hommedev2.png "hommedev2")
